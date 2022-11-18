@@ -1,0 +1,281 @@
+================================================================================
+INITIALIZING
+================================================================================
+Loading data...
+took 2.05 seconds
+Building parser...
+took 1.11 seconds
+Loading pretrained embeddings...
+took 2.80 seconds
+Vectorizing data...
+took 1.77 seconds
+Preprocessing training data...
+took 39.78 seconds
+took 0.01 seconds
+
+================================================================================
+TRAINING
+================================================================================
+Epoch 1 out of 500
+Average Train Loss: 0.19022116240001086
+Evaluating on dev set
+- dev UAS: 83.67
+New best dev UAS! Saving model.
+
+Epoch 2 out of 500
+Average Train Loss: 0.11587837602927055
+Evaluating on dev set
+- dev UAS: 85.94
+New best dev UAS! Saving model.
+
+Epoch 3 out of 500
+Average Train Loss: 0.10116806918214925
+Evaluating on dev set
+- dev UAS: 86.78
+New best dev UAS! Saving model.
+
+Epoch 4 out of 500
+Average Train Loss: 0.09262538778099727
+Evaluating on dev set
+- dev UAS: 87.38
+New best dev UAS! Saving model.
+
+Epoch 5 out of 500
+Average Train Loss: 0.0859497089495326
+Evaluating on dev set
+- dev UAS: 88.01
+New best dev UAS! Saving model.
+
+Epoch 6 out of 500
+Average Train Loss: 0.08099833937982719
+Evaluating on dev set
+- dev UAS: 88.18
+New best dev UAS! Saving model.
+
+Epoch 7 out of 500
+Average Train Loss: 0.07679165990063638
+Evaluating on dev set
+- dev UAS: 88.26
+New best dev UAS! Saving model.
+
+Epoch 8 out of 500
+Average Train Loss: 0.07339631759226967
+Evaluating on dev set
+- dev UAS: 88.46
+New best dev UAS! Saving model.
+
+Epoch 9 out of 500
+Average Train Loss: 0.06978755497305102
+Evaluating on dev set
+- dev UAS: 88.55
+New best dev UAS! Saving model.
+
+Epoch 10 out of 500
+Average Train Loss: 0.06712225298256133
+Evaluating on dev set
+- dev UAS: 88.63
+New best dev UAS! Saving model.
+
+Epoch 11 out of 500
+Average Train Loss: 0.0642812677005959
+Evaluating on dev set
+- dev UAS: 88.76
+New best dev UAS! Saving model.
+
+Epoch 12 out of 500
+Average Train Loss: 0.061858708923884155
+Evaluating on dev set
+- dev UAS: 88.80
+New best dev UAS! Saving model.
+
+Epoch 13 out of 500
+Average Train Loss: 0.05924726337863705
+Evaluating on dev set
+- dev UAS: 88.49
+
+Epoch 14 out of 500
+Average Train Loss: 0.05743263350715014
+Evaluating on dev set
+- dev UAS: 88.73
+
+Epoch 15 out of 500
+Average Train Loss: 0.055388156993887126
+Evaluating on dev set
+- dev UAS: 88.56
+
+Epoch 16 out of 500
+Average Train Loss: 0.05351892276969436
+Evaluating on dev set
+- dev UAS: 88.90
+New best dev UAS! Saving model.
+
+Epoch 17 out of 500
+Average Train Loss: 0.051838076004185975
+Evaluating on dev set
+- dev UAS: 88.87
+
+Epoch 18 out of 500
+Average Train Loss: 0.05034817250957511
+Evaluating on dev set
+- dev UAS: 88.66
+
+Epoch 19 out of 500
+Average Train Loss: 0.04875895569758143
+Evaluating on dev set
+- dev UAS: 88.75
+
+Epoch 20 out of 500
+Average Train Loss: 0.046963224344729604
+Evaluating on dev set
+- dev UAS: 88.92
+New best dev UAS! Saving model.
+
+Epoch 21 out of 500
+Average Train Loss: 0.045566578893579575
+Evaluating on dev set
+- dev UAS: 88.75
+
+Epoch 22 out of 500
+Average Train Loss: 0.044131077379512385
+Evaluating on dev set
+- dev UAS: 88.75
+
+Epoch 23 out of 500
+Average Train Loss: 0.043211895743691366
+Evaluating on dev set
+- dev UAS: 88.83
+
+Epoch 24 out of 500
+Average Train Loss: 0.04200768489309978
+Evaluating on dev set
+- dev UAS: 88.80
+
+Epoch 25 out of 500
+Average Train Loss: 0.040749991312623024
+Evaluating on dev set
+- dev UAS: 88.71
+
+Epoch 26 out of 500
+Average Train Loss: 0.03967910955379842
+Evaluating on dev set
+- dev UAS: 88.53
+
+Epoch 27 out of 500
+Average Train Loss: 0.038689890087207225
+Evaluating on dev set
+- dev UAS: 88.67
+
+Epoch 28 out of 500
+Average Train Loss: 0.03767157822960254
+Evaluating on dev set
+- dev UAS: 88.68
+
+Epoch 29 out of 500
+Average Train Loss: 0.03639460035027267
+Evaluating on dev set
+- dev UAS: 88.45
+
+Epoch 30 out of 500
+Average Train Loss: 0.036074841731163425
+Evaluating on dev set
+- dev UAS: 88.81
+
+Epoch 31 out of 500
+Average Train Loss: 0.0350495017712202
+Evaluating on dev set
+- dev UAS: 88.54
+
+Epoch 32 out of 500
+Average Train Loss: 0.03417603638944381
+Evaluating on dev set
+- dev UAS: 88.43
+
+Epoch 33 out of 500
+Average Train Loss: 0.03349444503468578
+Evaluating on dev set
+- dev UAS: 88.44
+
+Epoch 34 out of 500
+Average Train Loss: 0.032621455306259844
+Evaluating on dev set
+- dev UAS: 88.43
+
+Epoch 35 out of 500
+Average Train Loss: 0.03220100004782344
+Evaluating on dev set
+- dev UAS: 88.39
+
+Epoch 36 out of 500
+Average Train Loss: 0.03126794632949596
+Evaluating on dev set
+- dev UAS: 88.44
+
+Epoch 37 out of 500
+Average Train Loss: 0.03054475148855527
+Evaluating on dev set
+- dev UAS: 88.27
+
+Epoch 38 out of 500
+Average Train Loss: 0.030289500762277093
+Evaluating on dev set
+- dev UAS: 88.46
+
+Epoch 39 out of 500
+Average Train Loss: 0.029399540477424248
+Evaluating on dev set
+- dev UAS: 88.33
+
+Epoch 40 out of 500
+Average Train Loss: 0.028872296970551308
+Evaluating on dev set
+- dev UAS: 88.32
+
+Epoch 41 out of 500
+Average Train Loss: 0.02838902947900099
+Evaluating on dev set
+- dev UAS: 88.29
+
+Epoch 42 out of 500
+Average Train Loss: 0.027797901488385
+Evaluating on dev set
+- dev UAS: 88.63
+
+Epoch 43 out of 500
+Average Train Loss: 0.02724208084874468
+Evaluating on dev set
+- dev UAS: 88.40
+
+Epoch 44 out of 500
+Average Train Loss: 0.026573947822328383
+Evaluating on dev set
+- dev UAS: 88.42
+
+Epoch 45 out of 500
+Average Train Loss: 0.02624610791817404
+Evaluating on dev set
+- dev UAS: 88.27
+
+Epoch 46 out of 500
+Average Train Loss: 0.02588534046788962
+Evaluating on dev set
+- dev UAS: 87.99
+
+Epoch 47 out of 500
+Average Train Loss: 0.025364709379518346
+Evaluating on dev set
+- dev UAS: 88.21
+
+Epoch 48 out of 500
+Average Train Loss: 0.024798424474772034
+Evaluating on dev set
+- dev UAS: 88.27
+
+Epoch 49 out of 500
+Average Train Loss: 0.024569271223063207
+Evaluating on dev set
+- dev UAS: 88.12
+
+Epoch 50 out of 500
+Average Train Loss: 0.0242417690221188
+Evaluating on dev set
+- dev UAS: 88.19
